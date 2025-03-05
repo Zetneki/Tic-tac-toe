@@ -1,6 +1,6 @@
 # Tic-Tac-Toe
 
-I made this little CLI game in my first year of university. 
+I made this little CLI game in my first semester of university. 
 
 ## Features
 - Simple command-line interface
